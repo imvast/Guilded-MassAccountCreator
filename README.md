@@ -20,7 +20,7 @@
   <h2 align="center">Guilded - Mass Account Creator</h2>
 
   <p align="center">
-    A mass account creator and follower for spotify (<b> created by me </b>)
+    A mass account creator for Guilded.gg idk wtf you would use this for but wtv (<b> created by me </b>)
     <br />
     <br />
     <a href="https://discord.gg/hbo">🌌 Discord</a>
