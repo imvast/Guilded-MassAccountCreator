@@ -71,5 +71,5 @@ v0.0.1 ⋮ 6/8/2022
 ---
 
 ### * README CREDITS *
-This README was inspired by [@dropout1337](https://github.com/@dropout1337) <3
+This README was inspired by [@dropout1337](https://github.com/dropout1337) <3
 - [he dont care if i use it lol](https://cdn.discordapp.com/attachments/901999809404219444/901999816681324634/unknown.png)
